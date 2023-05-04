@@ -1,0 +1,56 @@
+.header{
+    background: lightgrey;
+    height:120px;
+}
+.section{
+    background-color: blueviolet;
+    height:650px;
+    overflow: hidden;
+}
+.box{
+    width:33.33%;
+    height:650px;
+}
+.aside1{
+    float: left;
+    background-color: aquamarine;
+}
+.aside2{
+    float: left;
+    background-color: black;  
+}
+.aside3{
+    float: left;
+    background-color: rebeccapurple;  
+}
+.section2{
+    background-color: blanchedalmond;
+    height: 450px;
+    overflow: hidden;
+}
+.box2{
+    width:50%;
+    height:450px;
+}
+.article{
+    float: left;
+    background-color: orange;
+}
+.article2{
+    float: left;
+    background-color: yellowgreen;  
+}
+.map iframe{
+    width: 45%;
+    height:400px;
+    border:2px solid white;
+}
+.video iframe{
+    width: 48%;
+    height:400px;
+}
+.footer{
+    background: black;
+    height:200px;
+    
+}
